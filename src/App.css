@@ -1,0 +1,21 @@
+h1 {
+     text-align: center;
+}
+
+.container {
+     width: 600px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+
+.container label {
+     margin-top: 20px
+}
+
+.container button {
+     margin-top: 20px;
+     width: 100px;
+     height: 60px;
+     padding: 10px;
+}
